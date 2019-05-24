@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage Title="Eventos" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Planetario.Event">
+    <StackLayout Margin="20,10,20,20">
+        <ListView>
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>11:00 De vuelta a la luna</x:String>
+                    <x:String>12:00 De la tierra al universo</x:String>
+                    <x:String>13:00 Arqueoastronomia Maya</x:String>
+                    <x:String>14:00 3,2,1 Despegue</x:String>
+                    <x:String>15:00 Arqueastronomia Mexica</x:String>
+                    <x:String>11:00 De vuelta a la luna</x:String>
+                    <x:String>12:00 De la tierra al universo</x:String>
+                    <x:String>13:00 Arqueoastronomia Maya</x:String>
+                    <x:String>14:00 3,2,1 Despegue</x:String>
+                    <x:String>15:00 Arqueastronomia Mexica</x:String>
+                    <x:String>11:00 De vuelta a la luna</x:String>
+                    <x:String>12:00 De la tierra al universo</x:String>
+                    <x:String>13:00 Arqueoastronomia Maya</x:String>
+                    <x:String>14:00 3,2,1 Despegue</x:String>
+                    <x:String>15:00 Arqueastronomia Mexica</x:String>
+                    <x:String>11:00 De vuelta a la luna</x:String>
+                    <x:String>12:00 De la tierra al universo</x:String>
+                    <x:String>13:00 Arqueoastronomia Maya</x:String>
+                    <x:String>14:00 3,2,1 Despegue</x:String>
+                    <x:String>15:00 Arqueastronomia Mexica</x:String>
+                    <x:String>11:00 De vuelta a la luna</x:String>
+                    <x:String>12:00 De la tierra al universo</x:String>
+                    <x:String>13:00 Arqueoastronomia Maya</x:String>
+                    <x:String>14:00 3,2,1 Despegue</x:String>
+                    <x:String>15:00 Arqueastronomia Mexica</x:String>
+                    <x:String>11:00 De vuelta a la luna</x:String>
+                    <x:String>12:00 De la tierra al universo</x:String>
+                    <x:String>13:00 Arqueoastronomia Maya</x:String>
+                    <x:String>14:00 3,2,1 Despegue</x:String>
+                    <x:String>15:00 Arqueastronomia Mexica</x:String>
+                </x:Array>
+            </ListView.ItemsSource>
+        </ListView>
+    </StackLayout>
+</ContentPage>

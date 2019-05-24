@@ -1,0 +1,15 @@
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\bin\Debug\netstandard2.0\Planetario.deps.json
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\bin\Debug\netstandard2.0\Planetario.dll
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\bin\Debug\netstandard2.0\Planetario.pdb
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Planetario.csprojAssemblyReference.cache
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Planetario.csproj.CoreCompileInputs.cache
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Planetario.AssemblyInfoInputs.cache
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Planetario.AssemblyInfo.cs
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Planetario.dll
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Planetario.pdb
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Cono.xaml.g.cs
+C:\Users\Darkenjerun\source\repos\Planetario\Planetario\Planetario\obj\Debug\netstandard2.0\Event.xaml.g.cs

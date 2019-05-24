@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage Title="Planetario Digital Chimalhuacan" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Planetario"
+             x:Class="Planetario.MainPage">
+    
+    
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center">
+                <Image x:Name="Planetario" Source="pl2.jpg" Margin="0,50,0,5">                    
+                </Image>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Margin="20,0,20,0">
+                    <Button x:Name="Sala" WidthRequest="150" Text="Salas" Clicked="Sala_Clicked"/>
+                    <Button x:Name="Eventos" WidthRequest="150" Text="Eventos" Clicked="Eventos_Clicked"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Margin="20,0,20,0">
+                    <Button x:Name="Conocenos" WidthRequest="150" Text="Conocenos" Clicked="Conocenos_Clicked"/>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

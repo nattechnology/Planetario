@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage Title="SALAS" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Planetario.Page1">
+    
+    <ContentPage Title="Astronomia" Icon="@drawable/astronomia.png">
+        <ScrollView>
+            <StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Astronomia"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="La Astronomía nace casi al mismo tiempo que la humanidad. Los hombres primitivos ya se maravillaron con el espectáculo que ofrecía el firmamento y los fenómenos que allí se presentaban. Ante la imposibilidad de encontrarles una explicación, estos se asociaron con la magia, buscando en el cielo la razón y la causa de los fenómenos sucedidos en la Tierra. Esto, junto con la superstición y el poder que daba el saber leer los destinos en las estrellas, dominarían las creencias humanas por muchos siglos.
+Muchos años de observación sentaron las bases científicas de la Astronomía con explicaciones más aproximadas sobre el universo. Sin embargo, las creencias geocentristas apoyadas por los grupos religiosos y políticos impusieron durante muchos siglos un sistema erróneo, impidiendo además el análisis y estudio de otras teorías.
+
+El registro y la investigación del origen vienen a partir de la información que llega de ellos a través de la radiación electromagnética o de cualquier otro medio. La astronomía ha estado ligada al ser humano desde la antigüedad y todas las civilizaciones han tenido contacto con esta ciencia. Personajes como Aristóteles, Tales de Mileto, Anaxágoras, Aristarco de Samos, Hiparco de Nicea,Claudio Ptolomeo, Hipatia de Alejandría|Hipatia de Alejandría, Nicolás Copérnico, Santo Tomás de Aquino, Tycho_Brahe,Johannes Kepler, Galileo Galilei, Isaac Newton, Immanuel Kant, Gustav Kirchhoff y Albert Einstein han sido algunos de los cultivadores.
+
+La evolución y difusión de las teorías científicas han llevado a la definitiva separación entre la superstición planteada por la Astrología) y la ciencia (Astronomía). Esta evolución no ha ocurrido pacíficamente, muchos de los primeros astrónomos fueron perseguidos, juzgados y algunos quemados en la hoguera."/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Periodo anterior"/>
+                </StackLayout>
+                <StackLayout  HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="Pictografías haladas en la cueva de Punta del Este, Isla de la Juventud, sugieren que los aborígenes cubanos se habían percatado de la ciclicidad de algunos fenómenos astronómicos y tenían idea del Mes lunar.
+El 30 de octubre de 1492, fecha del Calendario Juliano, Cristóbal Colón realiza la primera observación astronómica registrada en Cuba. Determina con error la latitud del Puerto Mares, en Gibara.
+Entre el 4 y el 15 de octubre de 1583 se implantación en Cuba el actual Calendario Gregoriano.
+
+Calendario Gregoriano
+.
+1693 El médico y matemático español residente en La Habana Lázaro de Flores, edita en Madrid Arte de Navegar, probablemente el primer libro científico escrito en Cuba. En éste se calcula la longitud de La Habana con un 1° de error.
+1714-1725 Antonio Gamboa y Vargas Riaño (1673-1729), primer astrónomo cubano, utiliza un método de Galileo para determinar las longitudes de Sancti Spíritus y La Habana, y realiza diversas observaciones astronómicas publicadas en 1727 por el astrónomo francés Cassini, en las Memorias de la Real Academia de París.
+1794-1795 Antonio Robredo presenta en la Sociedad Económica de Amigos del País dos escritos con cálculos sobre las lunaciones.
+1797. El cubano Manuel Calves González defiende de manera pública y por primera vez en Cuba las ideas de Copérnico, al discutir la tesis de grado en Bachiller.
+El 19 de diciembre 1800 al 15 de marzo de 1801 Alejandro de Humboldt instala el observatorio astronómico en la residencia del conde O`Reilly y escribe la Exposición históricas de las tentativas hechas para determinar la posición geográfica de La Habana. Humboldt define la longitud de la capital, equivocada hasta entonces en un grado.
+1814-1818. El padre Félix Varela introduce la enseñanza de la Física Moderna y la Astronomía, en particular las leyes de Newton. En el gabinete de física dispone de un sistema planetario movible.
+
+Félix Varela
+.
+1827. La publicación del Ensayo Político de la Isla de Cuba por el Barón Alejandro de Humboldt sirve de partida a un auge científico que incluye la Astronomía.
+1842. Se edita el Tratado Práctico de Astronomía Náutica y Pilotaje por Ramón Bages.
+1851. Se publica en Cuba un Tratado Elemental de Relojes Solares; con principios de Geometría y Astronomía, escrita por el español José Hernández Jiménez.
+1857. Se funda por los jesuitas el Observatorio del Colegio de Belén, dedicado principalmente a la Meteorología, aunque en él se realizan también observaciones astronómicas, en particular desde que el padre Benito Viñes asume la dirección en 1870. El observatorio disponía de un telescopio refractor con objetivo de 15 cm. de diámetro.
+
+Colegio de Belén
+1866. En los anales de la Academia de Ciencias Médicas, Físicas y Naturales de La Habana aparece un artículo escrito por Marcos I. Melero, sobre Relojes Astronómicos.
+1877-1895. Se divulgan artículos astronómicos en publicaciones como La Revista de Cuba.
+1878-1882. El Padre Benito Viñes realiza en el Observatorio de Belén observaciones del eclipse de Sol visible como total en la tarde del 29 de julio de 1878 en la mitad occidental de nuestro territorio. También observa el tránsito de Venus del 6 de diciembre de 1882.
+1908.Se funda el Observatorio Nacional en las alturas de Casablanca adscrito a la Secretaría de Agricultura, también con un marcado carácter meteorológico.
+Entre abril y mayo de 1910 con motivo del notable paso de ese año del Cometa Halley y los pronósticos de que la Tierra cruzaría por la cola del mismo, la divulgación de este fenómeno astronómico adquiere una enorme trascendencia pública. Tiene gran participación en estas actividades el padre Jesuita Gutiérrez Lanza.
+1911. Luis I. Carballo publica un ensayo en el boletín de la Sociedad Astronómica de Francia.
+1914. Se funda la Sociedad Geográfica de Cuba, cuya sección de Astronomía y Geografía Matemática publica en los años 30 dos folletos sobre Copérnico y Newton.
+El 19 de noviembre de 1917 el Ing. José Carlos Millás, quien después sería director del Observatorio Nacional (1922), explica en la Academia de Ciencias Médicas, Físicas y Naturales de La Habana el método general de Laplace para órbitas y presenta sus cálculos del cometa Schaumasse.
+El 16 de mayo de 1921. Se inaugura en la loma de Casablanca el edificio de Astronomía del Observatorio Nacional y un telescopio refractor ecuatorial con objetivo de 25 cm. de diámetro.
+El 19 de julio de 1925. Se implanta en Cuba como hora oficial, la del meridiano 75° Oeste de Greenwich.
+El 19 de diciembre de 1930. Visita la Habana en una escala del viaje a California el físico Albert Einsten, uno de los hombres de ciencias más notables que han existido. Aunque no fue propiamente un astrónomo, las teorías han influido decisivamente en el desarrollo de la Astronomía.
+1942. El Observatorio Nacional es adscrito a la Marina de Guerra y la actividad principal continúa siendo el Servicio Meteorológico. En la sección de Astronomía, con escaso personal, sólo se atienden los cálculos astronómicos fundamentales, las informaciones al público sobre eclipses, cometas y otros fenómenos importantes y se toman placas fotográficas de campos estelares y de cometas, dirigiendo estas actividades el astrónomo Boris Jaskovich. También se atiende a los aficionados.
+El 6 de marzo de 1948. Se edita la Revista Sky and Telescope.
+En abril de 1948 los aficionados cubanos Roberto Ortiz padre e hijo, realizan la primera observación post-perihelio en el mundo del Cometa Bester (1947 k) según la revista Sky and Telescope.
+En agosto de 1955 se instala en Arroyo Naranjo un telescopio reflector con espejo de 60 cm. del que era propietario el oftalmólogo y aficionado Dr. Miguel Mery. En aquel momento fue reconocido, por una publicación especializada como el mayor telescopio de América Latina en poder de un aficionado.
+Entre el 4 julio y el 7 de julio de 1956 visita a La Habana formando parte de una delegación de astrónomos norteamericanos profesionales y aficionados, el Dr. Harlow Shapley, uno de los científicos más notables del pasado siglo en esta ciencia. Como parte de esta visita pronunció una conferencia en el antiguo Observatorio Nacional.
+1957. Se funda la Sociedad Astronómica de Cuba con participación de profesionales y aficionados, pero tuvo corta vida, pues se disolvió en 1960. Se publicaron 5 números de la revista divulgativa de dicha sociedad.
+1962. Comienzan a ampliarse los servicios de cálculo astronómico en el Observatorio Nacional de la Marina de Guerra Revolucionaria, y dos años después se inicia la publicación de los datos sobre salidas y puestas del Sol y de la Luna y las horas de las mareas en el anuario Suplemento al Almanaque Náutico, descontinuado en 1969.
+
+Estación Radio Astronómica del IGA
+En febrero de 1962. Se constituye la Comisión Nacional de la Academia de Ciencias de Cuba y como parte de ella un Grupo de Trabajo de Meteorología y Astronomía; pero las actividades astronómicas concretas no comenzaron el 1964.
+En marzo de 1964 . Se inicia la colaboración con la Academia de Ciencias de la URSS para el desarrollo de la Astronomía. Llega a Cuba un especialista del Consejo Astronómico de este país e imparte un curso para formar los técnicos cubanos que integraron la primera estación de Rastreo Visual de Satélites Artificiales. En los primeros días de abril comienzan las observaciones regulares y el envío inmediato al centro Cosmos de Moscú.
+El 24 de agosto de 1965 laa sección de Astronomía del Observatorio Nacional es incorporada a la Academia de Ciencias y se constituyen como entidades independientes el Instituto de Meteorología, en Casablanca, y el Grupo de Astronomía, radicado este último en el Capitolio. El grupo adquirió categoría de Departamento al año siguiente.
+En 1966. Visita a Cuba el Dr. Lazlo Detre, director del Observatorio de Konkoly, Hungría y se traslada la estación de Rastreo de Satélites para el Cacahual y se instala otra en el Salado, Santiago de Cuba. Se inicia el Programa de colaboración internacional Intercosmos, con la participación de Cuba.
+En 1967. Visita a La Habana el Dr. Vladimir Krat, director del Observatorio de Púlkovo en Leningrado, URSS, a fin de establecer colaboración para el desarrollo de la Física Solar en Cuba.
+El 5 de diciembre de 1967 se Traslada el Departamento de Astronomía para una casa del Reparto Siboney, del Municipio Playa.
+En 1969 Cuba ingresa en la Unión Astronómica Internacional.
+El 11 de septiembre de 1969 se inicia la Radioastronomía cubana y la colaboración con la URSS en Física Solar al efectuarse la observación de un eclipse parcial de Sol por medio del primer radiotelescopio de Cuba, instalado por radioastrónomos del Observatorio principal de Púlkovo, Leningrado. Se publicó un trabajo conjunto con técnicos cubanos.
+El 6 de marzo de 1970. Se inaugura oficialmente el Instituto de Astronomía de la ACC bajo la dirección del Ing. Luis Lagarroiti, con sede en el Reparto Siboney. Al día siguiente una expedición integrada por 17 especialistas soviéticos y dirigida por el profesor Mijail Kobrin, coordinador de la Colaboración con Cuba por el consejo Radioastronómico de la URSS, observa desde ese lugar mediante 5 radiotelescopios y el telescopio óptico, un gran eclipse parcial de Sol. Participan en esta investigación profesionales y técnicos cubanos.
+En 1970 el Ing. Luis Larragoitti asiste, por primera vez representando a Cuba, a la XIV Asamblea General de la Unión Astronómica Internacional, celebrada en Londres.
+En 1972 se inicia la colaboración con el Observatorio Astrofísico de Crimea, URSS, instalándose en el Instituto un radiotelescopio solar para la longitud de onda de 1,37m.
+El 3 de marzo de 1972. Comienzan las observaciones fotográficas de las manchas solares con la colaboración del Observatorio de Púlkovo, dando inicio al desarrollo de la Astronomía Óptica.
+1973 Visita a Ciudad de La Habana el relativista polaco Plevanski, quien en la juventud fuera ayudante de Albert Einstein, en Princenton. Plevanski pronunció una conferencia organizada por el IGA.
+El 24 de diciembre 1973 una segunda expedición integrada por 15 radioastrónomos soviéticos y dirigida por M. Kobrin observa desde Santiago de Cuba el eclipse parcial de Sol de ese día. Simultáneamente, astrónomos cubanos realizan en La Habana una actividad similar.
+El 14 de enero de 1974. Se fusionan los entonces Institutos de Geofísica e Instituto de Astronomía de la ACC para crear el actual Instituto de Geofísica y Astronomía, radicado en el Reparto. La Coronela.
+En 1977. Especialistas del Observatorio de Púlkovo, URSS, instalan en el Cacahual un telescopio solar horizontal con un espectrógrafo acoplado.
+En junio de 1977. Entra en operación un radar láser Kriptón de primera generación en la Estación de Rastreo de Santiago de Cuba, con la colaboración del Consejo Astronómico de la URSS y del programa INTERCOSMOS.
+1979. Se establece la colaboración con el Instituto de Investigaciones Científicas Radiofísicas de Gorka, URSS, y para ello se instala un radiotelescopio para longitudes de onda de 3 cm.
+1979. Se inicia la introducción de la Astronomía General en la Enseñanza Media Superior y Superior, adaptándose el primer libro de texto y las orientaciones metodológicas, por investigadores del IGA. También se prepararon los programas para los diferentes niveles, En la actualidad solo se imparten nociones de Astrofísica en los institutos Superiores Pedagógicos en la especialidad de Física.
+1982. Comienza la publicación anual de la revista Datos Astronómicos para Cuba.
+El 14 de diciembre de 1985 comienzan las observaciones de rastreo de satélites con un radar láser de segunda generación en la Estación de Santiago de Cuba.
+En los meses de anero a abril de 1986. Las observaciones del cometa Halley realizadas en colaboración con especialistas soviéticos del Observatorio de Púlkovo, en Leningrado, y su posterior elaboración astrométrica y Astrofísica, constituye la primera investigación de su tipo en Cuba.
+El 15 de mayo de 1987 se constituye oficialmente el Comité Nacional Cubano de la Unión Astronómica Internacional. El Comité se reúne por segunda y última vez en 1989 en Holguín.
+En agosto de 1988 asiste Cuba a la XX Asamblea General de UAI, efectuada en Baltimore; en dicho evento se aprueba el ingreso de un cubano como miembro individual de la organización. En la XXI Asamblea, celebrada tres años después en la ciudad de Buenos Aires, fueron admitidos otros 5 investigadores del IGA como miembros individuales.
+En agosto de 1989 se celebra en el Instituto Superior pedagógico de la Ciudad de Holguín y con el auspicio de dicho centro docente y del IGA, la XVI Escuela Internacional de Jóvenes Astrónomos IAU- UNESCO, en la que participaron 10 profesores y 50 alumnos de 11 países.
+En abril de 1997 se efectúa en el Palacio Central de Pioneros Ernesto Che Guevarael Primer Encuentro Nacional de Aficionados a la Astronomía organizado por el IGA, con más de 50 participantes. Esta actividad revitalizó el movimiento de aficionados en Cuba. En el año 2000 se celebró en Santiago de Cuba el Segundo Encuentro. Con posterioridad los propios aficionados han celebrado encuentros en Sancti Spíritus, Santa Clara y Caibarién.
+2000. En la Asamblea de la UAI, en Manchester, Cuba es readmitida como Miembro Interino.
+2003. En el marco de la Primera Convención de Ciencias de la Tierra se efectúa el Primer Simposio de Astronomía y Geofísica Espacial con participantes de cinco países.
+El 15 de enero del 2003 el Consejo de Estado de la República de Cuba otorga la orden Carlos J. Finlay a un investigador del Dpto. de Astronomía y a la directora del IGA. Con posterioridad se le otorga a otros dos investigadores del IGA, de los Dptos. de Geofísica Espacial y Estudios Geoambientales.
+En enero del 2005 visita Cuba y en particular al IGA, una delegación de la UAI, integrantes de la Comisión para el Desarrollo de la Astronomía a fin de rendir un informe sobre esa ciencia en Cuba.
+2005. Se ofrece por televisión y dentro del programa Universidad para Todos, un curso de Elementos de Astronomía con 30 clases de una hora, impartida por investigadores del Dpto. de Astronomía. El curso se repitió en el 2007.
+1999 – 2008 . Premios Nacionales de la Academia de Ciencias de Cuba. Tres investigadores del Dpto. reciben en 1999 el Premio Academia (ACC) y o tros cuatro son galardonados en el 2008 con idéntico premio, en ambos casos por los trabajos de Física Solar publicados en revistas de gran prestigio internacional.
+En el 2002, varios miembros del Dpto. son coautores del premio ACC sobre el Paleoclima Cubano."/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+
+    <ContentPage Title="Astrobiologia" Icon="@drawable/biologia.png">
+        <ScrollView>
+            <StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Astrobiologia"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="La Astronomía nace casi al mismo tiempo que la humanidad. Los hombres primitivos ya se maravillaron con el espectáculo que ofrecía el firmamento y los fenómenos que allí se presentaban. Ante la imposibilidad de encontrarles una explicación, estos se asociaron con la magia, buscando en el cielo la razón y la causa de los fenómenos sucedidos en la Tierra. Esto, junto con la superstición y el poder que daba el saber leer los destinos en las estrellas, dominarían las creencias humanas por muchos siglos.
+Muchos años de observación sentaron las bases científicas de la Astronomía con explicaciones más aproximadas sobre el universo. Sin embargo, las creencias geocentristas apoyadas por los grupos religiosos y políticos impusieron durante muchos siglos un sistema erróneo, impidiendo además el análisis y estudio de otras teorías.
+
+El registro y la investigación del origen vienen a partir de la información que llega de ellos a través de la radiación electromagnética o de cualquier otro medio. La astronomía ha estado ligada al ser humano desde la antigüedad y todas las civilizaciones han tenido contacto con esta ciencia. Personajes como Aristóteles, Tales de Mileto, Anaxágoras, Aristarco de Samos, Hiparco de Nicea,Claudio Ptolomeo, Hipatia de Alejandría|Hipatia de Alejandría, Nicolás Copérnico, Santo Tomás de Aquino, Tycho_Brahe,Johannes Kepler, Galileo Galilei, Isaac Newton, Immanuel Kant, Gustav Kirchhoff y Albert Einstein han sido algunos de los cultivadores.
+
+La evolución y difusión de las teorías científicas han llevado a la definitiva separación entre la superstición planteada por la Astrología) y la ciencia (Astronomía). Esta evolución no ha ocurrido pacíficamente, muchos de los primeros astrónomos fueron perseguidos, juzgados y algunos quemados en la hoguera."/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Periodo anterior"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="Pictografías haladas en la cueva de Punta del Este, Isla de la Juventud, sugieren que los aborígenes cubanos se habían percatado de la ciclicidad de algunos fenómenos astronómicos y tenían idea del Mes lunar.
+El 30 de octubre de 1492, fecha del Calendario Juliano, Cristóbal Colón realiza la primera observación astronómica registrada en Cuba. Determina con error la latitud del Puerto Mares, en Gibara.
+Entre el 4 y el 15 de octubre de 1583 se implantación en Cuba el actual Calendario Gregoriano.
+
+Calendario Gregoriano
+.
+1693 El médico y matemático español residente en La Habana Lázaro de Flores, edita en Madrid Arte de Navegar, probablemente el primer libro científico escrito en Cuba. En éste se calcula la longitud de La Habana con un 1° de error.
+1714-1725 Antonio Gamboa y Vargas Riaño (1673-1729), primer astrónomo cubano, utiliza un método de Galileo para determinar las longitudes de Sancti Spíritus y La Habana, y realiza diversas observaciones astronómicas publicadas en 1727 por el astrónomo francés Cassini, en las Memorias de la Real Academia de París.
+1794-1795 Antonio Robredo presenta en la Sociedad Económica de Amigos del País dos escritos con cálculos sobre las lunaciones.
+1797. El cubano Manuel Calves González defiende de manera pública y por primera vez en Cuba las ideas de Copérnico, al discutir la tesis de grado en Bachiller.
+El 19 de diciembre 1800 al 15 de marzo de 1801 Alejandro de Humboldt instala el observatorio astronómico en la residencia del conde O`Reilly y escribe la Exposición históricas de las tentativas hechas para determinar la posición geográfica de La Habana. Humboldt define la longitud de la capital, equivocada hasta entonces en un grado.
+1814-1818. El padre Félix Varela introduce la enseñanza de la Física Moderna y la Astronomía, en particular las leyes de Newton. En el gabinete de física dispone de un sistema planetario movible.
+
+Félix Varela
+.
+1827. La publicación del Ensayo Político de la Isla de Cuba por el Barón Alejandro de Humboldt sirve de partida a un auge científico que incluye la Astronomía.
+1842. Se edita el Tratado Práctico de Astronomía Náutica y Pilotaje por Ramón Bages.
+1851. Se publica en Cuba un Tratado Elemental de Relojes Solares; con principios de Geometría y Astronomía, escrita por el español José Hernández Jiménez.
+1857. Se funda por los jesuitas el Observatorio del Colegio de Belén, dedicado principalmente a la Meteorología, aunque en él se realizan también observaciones astronómicas, en particular desde que el padre Benito Viñes asume la dirección en 1870. El observatorio disponía de un telescopio refractor con objetivo de 15 cm. de diámetro.
+
+Colegio de Belén
+1866. En los anales de la Academia de Ciencias Médicas, Físicas y Naturales de La Habana aparece un artículo escrito por Marcos I. Melero, sobre Relojes Astronómicos.
+1877-1895. Se divulgan artículos astronómicos en publicaciones como La Revista de Cuba.
+1878-1882. El Padre Benito Viñes realiza en el Observatorio de Belén observaciones del eclipse de Sol visible como total en la tarde del 29 de julio de 1878 en la mitad occidental de nuestro territorio. También observa el tránsito de Venus del 6 de diciembre de 1882.
+1908.Se funda el Observatorio Nacional en las alturas de Casablanca adscrito a la Secretaría de Agricultura, también con un marcado carácter meteorológico.
+Entre abril y mayo de 1910 con motivo del notable paso de ese año del Cometa Halley y los pronósticos de que la Tierra cruzaría por la cola del mismo, la divulgación de este fenómeno astronómico adquiere una enorme trascendencia pública. Tiene gran participación en estas actividades el padre Jesuita Gutiérrez Lanza.
+1911. Luis I. Carballo publica un ensayo en el boletín de la Sociedad Astronómica de Francia.
+1914. Se funda la Sociedad Geográfica de Cuba, cuya sección de Astronomía y Geografía Matemática publica en los años 30 dos folletos sobre Copérnico y Newton.
+El 19 de noviembre de 1917 el Ing. José Carlos Millás, quien después sería director del Observatorio Nacional (1922), explica en la Academia de Ciencias Médicas, Físicas y Naturales de La Habana el método general de Laplace para órbitas y presenta sus cálculos del cometa Schaumasse.
+El 16 de mayo de 1921. Se inaugura en la loma de Casablanca el edificio de Astronomía del Observatorio Nacional y un telescopio refractor ecuatorial con objetivo de 25 cm. de diámetro.
+El 19 de julio de 1925. Se implanta en Cuba como hora oficial, la del meridiano 75° Oeste de Greenwich.
+El 19 de diciembre de 1930. Visita la Habana en una escala del viaje a California el físico Albert Einsten, uno de los hombres de ciencias más notables que han existido. Aunque no fue propiamente un astrónomo, las teorías han influido decisivamente en el desarrollo de la Astronomía.
+1942. El Observatorio Nacional es adscrito a la Marina de Guerra y la actividad principal continúa siendo el Servicio Meteorológico. En la sección de Astronomía, con escaso personal, sólo se atienden los cálculos astronómicos fundamentales, las informaciones al público sobre eclipses, cometas y otros fenómenos importantes y se toman placas fotográficas de campos estelares y de cometas, dirigiendo estas actividades el astrónomo Boris Jaskovich. También se atiende a los aficionados.
+El 6 de marzo de 1948. Se edita la Revista Sky and Telescope.
+                           
+                           y la colaboración con la URSS en Física Solar al efectuarse la observación de un eclipse parcial de Sol por medio del primer radiotelescopio de Cuba, instalado por radioastrónomos del Observatorio principal de Púlkovo, Leningrado. Se publicó un trabajo conjunto con técnicos cubanos.
+El 6 de marzo de 1970. Se inaugura oficialmente el Instituto de Astronomía de la ACC bajo la dirección del Ing. Luis Lagarroiti, con sede en el Reparto Siboney. Al día siguiente una expedición integrada por 17 especialistas soviéticos y dirigida por el profesor Mijail Kobrin, coordinador de la Colaboración con Cuba por el consejo Radioastronómico de la URSS, observa desde ese lugar mediante 5 radiotelescopios y el telescopio óptico, un gran eclipse parcial de Sol. Participan en esta investigación profesionales y técnicos cubanos.
+En 1970 el Ing. Luis Larragoitti asiste, por primera vez representando a Cuba, a la XIV Asamblea General de la Unión Astronómica Internacional, celebrada en Londres.
+En 1972 se inicia la colaboración con el Observatorio Astrofísico de Crimea, URSS, instalándose en el Instituto un radiotelescopio solar para la longitud de onda de 1,37m.
+El 3 de marzo de 1972. Comienzan las observaciones fotográficas de las manchas solares con la colaboración del Observatorio de Púlkovo, dando inicio al desarrollo de la Astronomía Óptica.
+1973 Visita a Ciudad de La Habana el relativista polaco Plevanski, quien en la juventud fuera ayudante de Albert Einstein, en Princenton. Plevanski pronunció una conferencia organizada por el IGA.
+El 24 de diciembre 1973 una segunda expedición integrada por 15 radioastrónomos soviéticos y dirigida por M. Kobrin observa desde Santiago de Cuba el eclipse parcial de Sol de ese día. Simultáneamente, astrónomos cubanos realizan en La Habana una actividad similar.
+El 14 de enero de 1974. Se fusionan los entonces Institutos de Geofísica e Instituto de Astronomía de la ACC para crear el actual Instituto de Geofísica y Astronomía, radicado en el Reparto. La Coronela.
+En 1977. Especialistas del Observatorio de Púlkovo, URSS, instalan en el Cacahual un telescopio solar horizontal con un espectrógrafo acoplado.
+En junio de 1977. Entra en operación un radar láser Kriptón de primera generación en la Estación de Rastreo de Santiago de Cuba, con la colaboración del Consejo Astronómico de la URSS y del programa INTERCOSMOS.
+1979. Se establece la colaboración con el Instituto de Investigaciones Científicas Radiofísicas de Gorka, URSS, y para ello se instala un radiotelescopio para longitudes de onda de 3 cm.
+1979. Se inicia la introducción de la Astronomía General en la Enseñanza Media Superior y Superior, adaptándose el primer libro de texto y las orientaciones metodológicas, por investigadores del IGA. También se prepararon los programas para los diferentes niveles, En la actualidad solo se imparten nociones de Astrofísica en los institutos Superiores Pedagógicos en la especialidad de Física.
+1982. Comienza la publicación anual de la revista Datos Astronómicos para Cuba.
+El 14 de diciembre de 1985 comienzan las observaciones de rastreo de satélites con un radar láser de segunda generación en la Estación de Santiago de Cuba.
+En los meses de anero a abril de 1986. Las observaciones del cometa Halley realizadas en colaboración con especialistas soviéticos del Observatorio de Púlkovo, en Leningrado, y su posterior elaboración astrométrica y Astrofísica, constituye la primera investigación de su tipo en Cuba.
+El 15 de mayo de 1987 se constituye oficialmente el Comité Nacional Cubano de la Unión Astronómica Internacional. El Comité se reúne por segunda y última vez en 1989 en Holguín.
+En agosto de 1988 asiste Cuba a la XX Asamblea General de UAI, efectuada en Baltimore; en dicho evento se aprueba el ingreso de un cubano como miembro individual de la organización. En la XXI Asamblea, celebrada tres años después en la ciudad de Buenos Aires, fueron admitidos otros 5 investigadores del IGA como miembros individuales.
+En agosto de 1989 se celebra en el Instituto Superior pedagógico de la Ciudad de Holguín y con el auspicio de dicho centro docente y del IGA, la XVI Escuela Internacional de Jóvenes Astrónomos IAU- UNESCO, en la que participaron 10 profesores y 50 alumnos de 11 países.
+En abril de 1997 se efectúa en el Palacio Central de Pioneros Ernesto Che Guevarael Primer Encuentro Nacional de Aficionados a la Astronomía organizado por el IGA, con más de 50 participantes. Esta actividad revitalizó el movimiento de aficionados en Cuba. En el año 2000 se celebró en Santiago de Cuba el Segundo Encuentro. Con posterioridad los propios aficionados han celebrado encuentros en Sancti Spíritus, Santa Clara y Caibarién.
+2000. En la Asamblea de la UAI, en Manchester, Cuba es readmitida como Miembro Interino.
+2003. En el marco de la Primera Convención de Ciencias de la Tierra se efectúa el Primer Simposio de Astronomía y Geofísica Espacial con participantes de cinco países.
+El 15 de enero del 2003 el Consejo de Estado de la República de Cuba otorga la orden Carlos J. Finlay a un investigador del Dpto. de Astronomía y a la directora del IGA. Con posterioridad se le otorga a otros dos investigadores del IGA, de los Dptos. de Geofísica Espacial y Estudios Geoambientales.
+En enero del 2005 visita Cuba y en particular al IGA, una delegación de la UAI, integrantes de la Comisión para el Desarrollo de la Astronomía a fin de rendir un informe sobre esa ciencia en Cuba.
+2005. Se ofrece por televisión y dentro del programa Universidad para Todos, un curso de Elementos de Astronomía con 30 clases de una hora, impartida por investigadores del Dpto. de Astronomía. El curso se repitió en el 2007.
+1999 – 2008 . Premios Nacionales de la Academia de Ciencias de Cuba. Tres investigadores del Dpto. reciben en 1999 el Premio Academia (ACC) y o tros cuatro son galardonados en el 2008 con idéntico premio, en ambos casos por los trabajos de Física Solar publicados en revistas de gran prestigio internacional.
+En el 2002, varios miembros del Dpto. son coautores del premio ACC sobre el Paleoclima Cubano."/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+
+    <ContentPage Title="Meteoritos" Icon="@drawable/meteoritos.png">
+        <ScrollView>
+            <StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Meteoritos"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="Un meteorito es un meteoroide que alcanza la superficie de un planeta debido a que no se desintegra por completo en la atmósfera. La luminosidad dejada al desintegrarse se denomina meteoro.
+
+El término meteoro proviene del griego μετέωρος meteoros, que significa «fenómeno en el cielo». Se emplea para describir el destello luminoso que acompaña la caída de materia del sistema solar sobre la atmósfera terrestre. Dicho destello se produce por la incandescencia temporal que sufre el meteoroide a causa de la presión de choque (el aire atmosférico se comprime al chocar con el cuerpo y, al aumentar la presión, aumenta la temperatura, que se transfiere al meteoroide), no de la fricción.1​2​ Esto ocurre generalmente a alturas entre 80 y 110 kilómetros sobre la superficie de la Tierra.
+
+Este término se emplea también en la palabra meteoroide con la que nos referimos a la propia partícula sin ninguna relación con el fenómeno que produce cuando entra en la atmósfera de la Tierra. Un meteoroide es materia que gira alrededor del Sol o cualquier objeto del espacio interplanetario que es demasiado pequeño para ser considerado como un asteroide o un cometa. Las partículas que son más pequeñas todavía reciben el nombre de micrometeoroides o granos de polvo estelar, lo que incluye cualquier materia interestelar que pudiera entrar en el sistema solar. Un meteorito es un meteoroide que alcanza la superficie de la Tierra sin que se haya vaporizado completamente."/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage>
+
+    <ContentPage Title="Exploración Espacial" Icon="@drawable/exploracion.png">
+        <ScrollView>
+            <StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Explora"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="La exploración espacial designa los esfuerzos del ser humano en estudiar el espacio y sus astros desde el punto de vista científico y de su explotación económica. Estos esfuerzos pueden involucrar tanto seres humanos viajando en naves espaciales como satélites con recursos de telemetría o sondas teleguiadas enviadas a otros planetas (orbitando o aterrizando en la superficie de estos cuerpos celestes).
+
+La ciencia que estudia los vuelos espaciales y la tecnología relacionada con ellos se denomina astronáutica. Las personas que pilotan naves espaciales, o son pasajeros en ellas, se llaman astronautas (en Rusia: cosmonautas; en China: taikonautas). Técnicamente se considera astronauta a todo aquel que emprenda un vuelo suborbital (sin entrar en órbita) u orbital a como mínimo 100 km de altitud (considerado el límite externo de la atmósfera).
+
+El cielo siempre ha atraído la atención y los sueños del ser humano. Ya en 1634 se publicó la que se considera primera novela de ciencia ficción, Somnium, de Johannes Kepler, que narra un hipotético viaje a la Luna. Más tarde, en 1865, en una famosa obra de ficción titulada De la Tierra a la Luna, Julio Verne escribe sobre un grupo de hombres que viajó hasta la Luna usando un gigantesco cañón. En Francia, Georges Méliès, uno de los pioneros del cine, tomaba la novela de Verne para crear Le voyage dans la Lune (1902), una de las primeras películas de ciencia ficción en la que describía un increíble viaje a la Luna. En obras como 0La guerra de los mundos (1898) y El primer hombre en la Luna (1901), H. G. Wells también se concibieron ideas de exploración del espacio y de contacto con civilizaciones extraterrestres."/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+
+    <ContentPage Title="Formas de Vida" Icon="@drawable/formas.png">
+        <ScrollView>
+            <StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Vaya formas"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="Estilo de vida o forma de vida1​ son expresiones que se designan, de una manera general, al estilo, forma o manera en que se entiende la vida; no tanto en el sentido de una particular cosmovisión o concepción del mundo —poco menos que una ideología: aunque sea esa a veces la intención del que aplica la expresión, cuando se extiende a la totalidad de la cultura y el arte—,2​ como en el de una identidad, una idiosincrasia o un carácter, particular o de grupo —nacional, regional, generacional, de clase, subcultural, etc.—, expresado en todos o en cualquiera de los ámbitos del comportamiento (trabajo, ocio, sexo, alimentación, ropa, etc.)."/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+
+    <ContentPage Title="Casa de la Tierra" Icon="@drawable/casa.png">
+        <ScrollView>
+            <StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Text="Casa de ti"/>
+                </StackLayout>
+                <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                    <Label Margin="10,10,10,10" Text="El Centro de Educación Ambiental Rodolfo Landeros Gallegos de la Ciudad de Aguascalientes alberga la Casa de la Tierra. Este recinto proporciona a los visitantes información científica actualizada sobre escenarios climáticos globales. Su rasgo más atractivo es la esfera sobre la cual se proyectan imágenes satelitales proporcionadas por la NASA.
+
+Entre los datos más interesantes que puedes conocer allí se encuentran los siguientes: 
+
+·      Ubicación y clasificación de terremotos globales en tiempo real que demuestra la movilidad de las capas terrestres.
+
+·      Descripción de la contaminación por aerosoles (dióxido de azufre) y partículas en suspensión (carbón negro, hollín).
+
+·      Altimetría y topografía terrestre como herramienta de análisis del territorio.
+
+·      Topografía marina que permite al espectador visualizar la superficie de la tierra en las partes ocupadas por los océanos.
+
+·      Temperatura de los océanos, que demuestra la movilidad de las corrientes marinas y permite relacionarlos con los cambios climáticos regionales.
+
+·      Datos relacionados con la necesidad de energía en el planeta. "/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+</TabbedPage>
